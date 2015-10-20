@@ -1,0 +1,12 @@
+{
+  "title": "ArchLinux Package Installer",
+  "name": "arch-package-installer",
+  "version": "0.0.1",
+  "description": "Lets you install archlinux packages directly from the archlinux.org page",
+  "main": "index.js",
+  "author": "Akshay S Dinesh <asdofindia@gmail.com>",
+  "engines": {
+    "firefox": ">=38.0a1"
+  },
+  "license": "GPL"
+}
